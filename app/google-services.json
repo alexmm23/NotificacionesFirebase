@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603932536890",
+    "project_id": "prueba-notificaciones-8ea05",
+    "storage_bucket": "prueba-notificaciones-8ea05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603932536890:android:b623915334757fdbeb4503",
+        "android_client_info": {
+          "package_name": "com.example.notificacionesfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyG7HaN6mkfOzZzdpP0I7wN3WkMgW1Yjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
